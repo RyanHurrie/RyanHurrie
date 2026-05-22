@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=555555&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+clean+web+experiences;Focused+on+React+and+UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=555555&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+clean+web+experiences;Focused+on+UI%2FUX" />
 </p>
 
 <h1 align="center">Frontend Developer</h1>
