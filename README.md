@@ -63,7 +63,7 @@ Technology • Web Design • Video Editing • Game Design • Problem Solving
 ---
 
 ## Connect
-GitHub: https://github.com/RyanHurrie
+LinkedIn: https://www.linkedin.com/in/ryan-hurrie
 
 ---
 
