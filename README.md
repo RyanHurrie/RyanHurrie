@@ -44,14 +44,6 @@ I’m a frontend developer focused on creating intuitive and visually clean web 
 
 ## GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanHurrie&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanHurrie&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=RyanHurrie&hide_border=true" />
 </p>
 
